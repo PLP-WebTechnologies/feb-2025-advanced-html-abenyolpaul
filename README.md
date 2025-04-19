@@ -137,6 +137,7 @@ Apply multimedia elements such as audio and video.
 </body>
 </html>
 >[!NOTE]
+
 >  The registration form should have:
 >- Name, email, password, and date fields.
 >- A dropdown, radio buttons, and checkboxes.
