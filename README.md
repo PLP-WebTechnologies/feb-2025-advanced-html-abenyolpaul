@@ -12,6 +12,7 @@ Apply multimedia elements such as audio and video.
 - Add an external image from pexels.com
 - Add a table of 5 contacts with; name, address, mobile and emails
 - Add a registration form
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
